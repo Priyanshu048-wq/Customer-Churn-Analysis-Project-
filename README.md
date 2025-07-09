@@ -1,4 +1,4 @@
-📊 Customer Churn Prediction using Python, MySQL & Machine Learning
+# 📊 Customer Churn Prediction using Python, MySQL & Machine Learning
 This project focuses on predicting customer churn through in-depth data analysis and machine learning techniques. It is designed to assist businesses in identifying at-risk customers and improving decision-making using actionable insights.
 
 🚀 Key Features
